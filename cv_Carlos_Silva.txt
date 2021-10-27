@@ -52,13 +52,13 @@
 & \textbf{University of Porto} \hfill Porto, Portugal \\ 
 & PhD in Linguistics \hfill September 2020 -- Present \\
 & Dissertation: Stability and effects of palatal consonants in creoles [TBA]\\
-& Mentors: João Veloso, Steven Moran\\
+& Advisors: João Veloso, Steven Moran\\
 & \\
 
 & \textbf{University of Porto} \hfill Porto, Portugal \\ 
 & MA in Linguistics \hfill September 2018 -- September 2020\\
 & Thesis: Um problema plural, uma proposta singular: a representação fonológica do morfema de plural do português \href{https://repositorio-aberto.up.pt/handle/10216/129786}{[pdf]}\\
-& Mentor: João Veloso {\it GPA: 19/20}\\
+& Advisor: João Veloso {\it GPA: 19/20}\\
 & \\
 
 & \textbf{University of Porto} \hfill Porto, Portugal \\ 
@@ -81,18 +81,18 @@
 
 \nohyphens{\color{OliveGreen}{Research experience}} \\
 & \textbf{INTERREG 1368: Património Léxico da Gallaecia} \\
-& Mentor: Professor Rosário Álvarez \hfill 2017 -- 2020 \\
+& Head: Professor Rosário Álvarez \hfill 2017 -- 2020 \\
 & (University of Santiago de Compostela)\\
 & Technical Developer. Project website available \href{http://ilg.usc.es/tesouro/pt/}{here}. \\
 & \\
 
 & \textbf{O Português é uma Língua Pesada} \\
-& Mentor: Professor João Veloso  (University of Porto) \hfill 2018\\
+& Head: Professor João Veloso  (University of Porto) \hfill 2018\\
 & Researcher. Reference: PGLCP065/207457. \\
 & \\
 
 & \textbf{Verbs, movement and prepositions} \\
-& Mentor: Professor António Leal  (University of Porto) \hfill 2016 -- 2017\\
+& Head: Professor António Leal  (University of Porto) \hfill 2016 -- 2017\\
 & Linguistic Consultant. Project output available \href{https://sigarra.up.pt/flup/pt/pub_geral.pub_view?pi_pub_base_id=270443}{here}. \\
 & \\
 
