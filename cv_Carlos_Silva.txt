@@ -298,6 +298,10 @@
 & Portuguese (native), English (C1), French (B2), Russian (B1), German (A1), Latin (proficient), Ancient Greek (intermediate) \\
 & \\
 
+% --- Section: Academic service: journal reviewing ---
+\nohyphens{\color{OliveGreen}{Academic service: journal reviewing}}\\
+& \textbf{Reviewer for} \href{https://brill.com/view/journals/jlc/jlc-overview.xml}{Journal of Language Contact} \hfill 2021\\
+
 
 \end{longtable}
 \end{document}
