@@ -80,6 +80,12 @@
 % --- Section: Research experience ---
 
 \nohyphens{\color{OliveGreen}{Research experience}} \\
+& \textbf{EVOPHON: Evolution of phonetics and phonology} \\
+& Head: Professor Steven Moran \hfill 2021 -- Present \\
+& (University of Neuchatel)\\
+& PhD student. Reference: SNSF/186841. \\
+& \\
+
 & \textbf{INTERREG 1368: Património Léxico da Gallaecia} \\
 & Head: Professor Rosário Álvarez \hfill 2017 -- 2020 \\
 & (University of Santiago de Compostela)\\
@@ -101,6 +107,11 @@
 
 {\color{OliveGreen}{Teaching experience}} \\
 & \textbf{Teaching assistant, Department of Romance languages (University of Porto)} \\
+& Winter semester 2022 \& 2023 \\
+& Linguistics (MA): Phonology I \\
+& \\
+
+& \textbf{Teaching assistant, Department of Romance languages (University of Porto)} \\
 & Winter semester 2018 \& 2019 \\
 & Language Sciences (BA): Phonology and Morphology \\
 & \\
@@ -110,8 +121,19 @@
 & Portuguese Studies (BA): Phonological and Morphological Structures of Portuguese \\
 & \\
 
+& \textbf{Volunteer teacher, Fantasy Camp (Belarus)} \\
+& July \& August 2017 \\
+& English, Portuguese, Classical Latin \& Ancient Greek \\
+& \\
+
 % --- Section: Journal Publications ---
 \nohyphens{\color{OliveGreen}{Journal Publications}} 
+
+
+& \textbf{Comparing lexical and usage frequencies of palatal segments in Portuguese} \\
+& Trigo, Luís \& Silva, Carlos \\
+& \textit{Computational Processing of the Portuguese Language: Lecture Notes in Artificial Intelligence Series, 2022.} \href{https://link.springer.com/chapter/10.1007/978-3-030-98305-5_33}{[pdf]}\\
+& \\
 
 & \textbf{A gramatização do mirandês: estudo sobre a Gramaticografia de uma língua minoritária} \\
 & Silva, Carlos \\
@@ -151,9 +173,19 @@
 
 % --- Section: Conference Proceedings ---
 \nohyphens{\color{OliveGreen}{Conference proceedings}} 
+& \textbf{Exploring consonant frequency in Sri Lanka Portuguese} \\
+& Silva, Carlos \& Trigo, Luís  \\
+& \textit{Proceedings of the II Workshop on Digital Humanities and Natural Language Processing, 2022.} \href{http://ceur-ws.org/Vol-3128/paper12.pdf}{[pdf]}\\
+& \\
+
+& \textbf{Phonetic simplification for automatic syllable division in Sri Lanka Portuguese} \\
+& Silva, Carlos \& Trigo, Luís  \\
+& \textit{Proceedings of the 5th edition of the International Conference on the Computational Processing of Portuguese, 2022.} \href{https://www.researchgate.net/publication/359469543_Phonetic_simplification_for_automatic_syllable_division_in_Sri_Lanka_Portuguese}{[pdf]}\\
+& \\
+
 & \textbf{The representation of Portuguese palatal sonorants through the eyes of Portuguese-based creoles} \\
 & Silva, Carlos \\
-& \textit{Proceedings of the 8th School-Conference Language issues: a young scholars’ perspective, in press.} \href{https://www.researchgate.net/publication/351812481_THE_REPRESENTATION_OF_PORTUGUESE_PALATAL_SONORANTS_THROUGH_THE_EYES_OF_PORTUGUESE-BASED_CREOLES}{[pdf]}\\
+& \textit{Proceedings of the 8th School-Conference Language issues: a young scholars’ perspective, 2021.} \href{https://iling-ran.ru/web/sites/default/files/conferences/2022/2021_smu_collection.pdf}{[pdf]}\\
 & \\
 
 
@@ -177,6 +209,53 @@
 % --- Section: Talks and tutorials ---
 
 {\color{OliveGreen}{Talks and posters}} \\
+
+& December 2022-- accepted \\
+& \textbf{Measuring consonant stability in Portuguese-based creoles} \\
+& with Steven Moran\\
+& 14th International Conference of the Association for Linguistic Typology (ALT 2022) \\
+& \\
+
+& June 2022 \\
+& \textbf{Inferring the phonological representation of Portuguese palatals from their distribution} \\
+& Réseau Français de Phonologie (RFP 2022) \\
+& \\
+
+& April 2022 \\
+& \textbf{Bringing Dalgado into the digital era: an online corpus of Sri Lanka Portuguese} \\
+& with Luís Trigo \\
+&  International Congress Dalgado 100 \\
+& \\
+
+& March 2022 \\
+& \textbf{Exploring consonant frequency in Sri Lanka Portuguese} \\
+& with Luís Trigo \\
+& 5th edition of the International Conference on the Computational Processing of Portuguese (PROPOR 2022) \\
+& \\
+
+& March 2022 \\
+& \textbf{Phonetic simplification for automatic syllable division in Sri Lanka Portuguese} \\
+& with Luís Trigo \\
+& 5th edition of the International Conference on the Computational Processing of Portuguese (PROPOR 2022) \\
+& \\
+
+& March 2022 \\
+& \textbf{Comparing lexical and usage frequencies of palatal segments in Portuguese} \\
+& with Luís Trigo \\
+& 5th edition of the International Conference on the Computational Processing of Portuguese (PROPOR 2022) \\
+& \\
+
+& December 2021 \\
+& \textbf{Stability drivers in the emergence of Portuguese-based creoles} \\
+& with Steven Moran \\
+& 5th Edinburgh Symposium on Historical Phonology (ESHP5) \\
+& \\
+
+& December 2021 \\
+& \textbf{PtLanka: an online corpus of Sri Lanka Portuguese lexicon and phonology} \\
+& with Luís Trigo \\
+&  Brazilian Conference on Intelligent Systems (BRACIS 2021). \\
+& \\
 
 & September 2021 \\
 & \textbf{Palatals without coronal/dorsal counterparts: the lateral case} \\
