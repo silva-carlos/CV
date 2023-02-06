@@ -210,7 +210,13 @@
 
 {\color{OliveGreen}{Talks and posters}} \\
 
-& December 2022-- accepted \\
+& February 2023 \\
+& \textbf{Learning Phonology with data in the classroom: engaging students in the creolistic research process} \\
+& with Luís Trigo and Vera Moitinho de Almeida\\
+& Humanities Going Digital: Teaching, training \& research experiences (HUGOD Conference) \\
+& \\
+
+& December 2022 \\
 & \textbf{Measuring consonant stability in Portuguese-based creoles} \\
 & with Steven Moran\\
 & 14th International Conference of the Association for Linguistic Typology (ALT 2022) \\
