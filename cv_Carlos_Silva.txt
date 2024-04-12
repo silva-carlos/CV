@@ -50,8 +50,8 @@
 
 \color{OliveGreen}{Education} 
 & \textbf{University of Porto} \hfill Porto, Portugal \\ 
-& PhD in Linguistics \hfill September 2020 -- Present \\
-& Dissertation: Stability and effects of palatal consonants in creoles [TBA]\\
+& PhD in Linguistics \hfill September 2020 -- February 2024 \\
+& Dissertation: Consonant stability of Portuguese-based creoles \href{https://repositorio-aberto.up.pt/handle/10216/157550}{[pdf]}\\
 & Advisors: João Veloso, Steven Moran\\
 & \\
 
@@ -71,9 +71,12 @@
 % --- Note: section title is spread over two lines ---
 
 {\color{OliveGreen}{Grants and awards}} \\
+& Commendation: Innovative Pedagogical Practice (University of Porto) \hfill 2023\\
+& ADHO travel bursary (Alliance of Digital Humanities Organizations) \hfill 2023\\
 & PhD Research Studentship (Foundation for Science and Technology) \hfill 2020\\
 & Presentation award (IJUP committee University of Porto)\hfill 2019 \\
 & Blagadaryus teaching award (Fantasy Camp, Minsk, Belarus) \hfill 2017 \\
+& Prize 'Incentivo' (University of Porto) \hfill 2016 \\
 & \\
 
 
@@ -83,7 +86,7 @@
 & \textbf{EVOPHON: Evolution of phonetics and phonology} \\
 & Head: Professor Steven Moran \hfill 2021 -- Present \\
 & (University of Neuchatel)\\
-& PhD student. Reference: SNSF/186841. \\
+& PhD fellow. Reference: SNSF/186841. \\
 & \\
 
 & \textbf{INTERREG 1368: Património Léxico da Gallaecia} \\
@@ -106,29 +109,48 @@
 % --- Section: Teaching experience ---
 
 {\color{OliveGreen}{Teaching experience}} \\
-& \textbf{Teaching assistant, Department of Romance languages (University of Porto)} \\
+& \textbf{Language Sciences (BA): Romance Linguistics} \\
+& Summer semester 2023 \& 2024 \\
+& Department of Romance languages (University of Porto) \\
+& \\
+
+& \textbf{Language Sciences (BA): Techniques of oral and written communication} \\
+& Summer semester 2024 \\
+& Department of Romance languages (University of Porto) \\
+& \\
+
+& \textbf{Linguistics (MA): Phonology I} \\
 & Winter semester 2022 \& 2023 \\
-& Linguistics (MA): Phonology I \\
+& Department of Romance languages (University of Porto) \\
 & \\
 
-& \textbf{Teaching assistant, Department of Romance languages (University of Porto)} \\
-& Winter semester 2018 \& 2019 \\
-& Language Sciences (BA): Phonology and Morphology \\
-& \\
-
-& \textbf{Teaching assistant, Department of Romance languages (University of Porto)} \\
+& \textbf{Portuguese Studies (BA): Phonological and Morphological Structures of Portuguese} \\
 & Summer semester 2019 \& 2020 \\
-& Portuguese Studies (BA): Phonological and Morphological Structures of Portuguese \\
+& Department of Romance languages (University of Porto) \\
 & \\
 
-& \textbf{Volunteer teacher, Fantasy Camp (Belarus)} \\
-& July \& August 2017 \\
-& English, Portuguese, Classical Latin \& Ancient Greek \\
+& \textbf{Language Sciences (BA): Phonology and Morphology} \\
+& Winter semester 2018 \& 2019 \\
+& Department of Romance languages (University of Porto) \\
 & \\
+
+%& \textbf{Volunteer teacher, Fantasy Camp (Belarus)} \\
+%& July \& August 2017 \\
+%& English, Portuguese, Classical Latin \& Ancient Greek \\
+%& \\
 
 % --- Section: Journal Publications ---
 \nohyphens{\color{OliveGreen}{Journal Publications}} 
 
+& \textbf{Frequency, overlap and origins of palatal sonorants in three Iberian languages} \\
+& Silva, Carlos \& Trigo, Luís \\
+& \textit{Computational Processing of the Portuguese Language: Lecture Notes in Artificial Intelligence Series, 2024.} \href{https://aclanthology.org/2024.propor-1.29/}{[pdf]}\\
+& \\
+
+& \textbf{Learning phonology with data in the classroom: Engaging students in the creolistic research process} \\
+& Trigo, Luís \& Silva, Carlos \& Vera Moitinho de Almeida\\
+& \textit{International Journal of Humanities and Arts Computing 8, 2024.} \href{https://euppublishing.com/doi/full/10.3366/ijhac.2024.0320}{[pdf]}\\
+& \\
 
 & \textbf{Comparing lexical and usage frequencies of palatal segments in Portuguese} \\
 & Trigo, Luís \& Silva, Carlos \\
@@ -172,7 +194,7 @@
 
 
 % --- Section: Conference Proceedings ---
-\nohyphens{\color{OliveGreen}{Conference proceedings}} 
+\nohyphens{\color{OliveGreen}{Conference proceedings}} \\
 & \textbf{Exploring consonant frequency in Sri Lanka Portuguese} \\
 & Silva, Carlos \& Trigo, Luís  \\
 & \textit{Proceedings of the II Workshop on Digital Humanities and Natural Language Processing, 2022.} \href{http://ceur-ws.org/Vol-3128/paper12.pdf}{[pdf]}\\
@@ -188,6 +210,23 @@
 & \textit{Proceedings of the 8th School-Conference Language issues: a young scholars’ perspective, 2021.} \href{https://iling-ran.ru/web/sites/default/files/conferences/2022/2021_smu_collection.pdf}{[pdf]}\\
 & \\
 
+
+% --- Section: Datasets ---
+\nohyphens{\color{OliveGreen}{Datasets}}\\
+& \textbf{GuineLex: Lexicon and phonology of the languages of Guinea-Bissau.} \\
+& Silva, Carlos \& Luís Trigo \\
+& \textit{2024}\href{https://github.com/Portophon/GuineLex}{[GitHub]}\\
+& \\
+
+& \textbf{CreoPhonPT: Phonology and lexicon of Portuguese-based creoles.} \\
+& Silva, Carlos \& Steven Moran \\
+& \textit{2022}\href{https://doi.org/10.5281/zenodo.7575862}{[Zenodo]}\\
+& \\
+
+& \textbf{PtLanka: Online corpus of Sri Lanka Portuguese lexicon and phonology.} \\
+& Silva, Carlos \& Luís Trigo \\
+& \textit{2022}\href{https://github.com/Portophon/PtLanka}{[GitHub]}\\
+& \\
 
 % --- Section: Paper and book reviews ---
 \nohyphens{\color{OliveGreen}{Book/paper reviews}}\\
@@ -209,6 +248,93 @@
 % --- Section: Talks and tutorials ---
 
 {\color{OliveGreen}{Talks and posters}} \\
+
+& July 2024 [accepted]\\
+& \textbf{Contributions of lexicostatistics to the genealogy of Portuguese-based Creoles} \\
+& with Fábio Granja \\
+& Annual meeting of the Association of Portuguese and Spanish Lexified Creoles (ACBLPE), University of São Tomé e Príncipe. \\
+& \\
+
+& June 2024 [accepted]\\
+& \textbf{Closing the loop: integrating students and the community in the Creolistic research workflow} \\
+& with with Luís Trigo and Vera Moitinho \\
+& DARIAH Annual Event 2024, Workflows: Digital Methods for Reproducible Research Practices in the Arts and Humanities, University of Lisbon. \\
+& \\
+
+
+& May 2024 [accepted]\\
+& \textbf{The stability of manner and place of articulation in the formation of Portuguese-based creoles} \\
+& with Steven Moran \\
+& Leiden Workshop on Creole Languages (WoCL), University of Leiden. \\
+& \\
+
+& May 2024 [accepted]\\
+& \textbf{Lexical stability in African and Indian Portuguese-based creoles} \\
+& 55th Annual Conference on African Linguistics (ACAL 55), University of Montreal. \\
+& \\
+
+& March 2024 \\
+& \textbf{Automatic measurement of distances between languages using Swadesh lists and big text corpora} \\
+& with Fábio Granja, Luís Trigo, and José Ramom Pichel \\
+& 6th edition of the International Conference on the Computational Processing of Portuguese (PROPOR 2024), University of Santiago de Compostela. \\
+& \\
+
+& March 2024 \\
+& \textbf{Frequency, overlap and origins of palatal sonorants in three Iberian languages} \\
+& with Luís Trigo \\
+& 6th edition of the International Conference on the Computational Processing of Portuguese (PROPOR 2024), University of Santiago de Compostela. \\
+& \\
+
+& March 2024 \\
+& \textbf{GuineLex: Lexicon and phonology of the languages of Guinea-Bissau} \\
+& with Luís Trigo, Ana Afonso, Sara Machado, Stephanie Cunha, Tiago  Marques, Ana Fernandes., Guendalina Gianfranchi, Mariana Mendes, Elaine Borges, Leonor Martins, Vítor Zardo, Maria Lima \& Ronaldo Mendes \\
+& 5th OpenCor: Latin American and Iberian Languages Open Corpora Forum, University of Santiago de Compostela.\\
+& \\
+
+
+& January 2024 \\
+& \textbf{Variação e mudança no crioulo da Guiné-Bissau} \\
+& with Ronaldo Mendes\\
+& Congreso Internacional de Lenguas Iberorrománicas (University of Helsinki) \\
+& \\
+
+& January 2024 \\
+& \textbf{Estabilidade lexical nos crioulos indo-portugueses de Korlai e Damão} \\
+& with Fábio Granja\\
+& Congreso Internacional de Lenguas Iberorrománicas (University of Helsinki) \\
+& \\
+
+& November 2023 \\
+& \textbf{Phonological stability and inventory similarity of Portuguese-based creoles} \\
+& with Luís Trigo and Steven Moran\\
+& Biennial Conference of the Centre of Linguistics of the University of Porto\\
+& \\
+
+
+& November 2023 \\
+& \textbf{Coda adaptation: from Portuguese to Fá D'Ambô} \\
+& with Sofia Pinho-Silva\\
+& Biennial Conference of the Centre of Linguistics of the University of Porto \\
+& \\
+
+
+& September 2023 \\
+& \textbf{Iberian comparative linguistics in the classroom with digital research methods} \\
+& with Luís Trigo, José Ramon Pichel and Vera Moitinho\\
+& 44th Annual Conference of the Association for Contemporary Iberian Studies\\
+& \\
+
+& July 2023 \\
+& \textbf{CreoPhonPt: a collaborative database saving Portuguese creoles from digital obliteration} \\
+& with Luís Trigo\\
+& ADHO Digital Humanities Conference (U. of Graz) \\
+& \\
+
+& March 2023 \\
+& \textbf{People first: Testing integrated digital research/teaching concepts from the ground up} \\
+& with Luís Trigo, Vera Moitinho de Almeida and Diogo Marques\\
+& Programming and Data Infrastructure in Digital Humanities (U. of Evora) \\
+& \\
 
 & February 2023 \\
 & \textbf{Learning Phonology with data in the classroom: engaging students in the creolistic research process} \\
@@ -376,7 +502,9 @@
 
 {\color{OliveGreen}{Skills}} 
 & \textbf{Programming}\\
-& Familiar with: R language \\
+& Proficient: LaTeX \\
+& Good command: R language \\
+& Basic knowledge: Python \\
 & \\
 
 & \textbf{Languages} \\
